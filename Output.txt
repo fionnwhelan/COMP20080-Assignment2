@@ -1,0 +1,24 @@
+2
+3
+4
+5
+6
+7
+8
+9
+9
+9
+Enter your variable:
+6
+There are 4 numbers less than yours in the set.
+There are 5 numbers more than yours in the set.
+Would you like to remove any numbers from the set? (Enter 0 if not)
+2
+9
+11
+0
+There are 3 numbers less than yours in the set.
+There are 2 numbers more than yours in the set.
+
+Process returned 0 (0x0)   execution time : 13.235 s
+Press any key to continue.

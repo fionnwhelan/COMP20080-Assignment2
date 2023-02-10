@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1664203127 source:c:\comp20080\assignment2\main.cpp
+	<iostream>
+	"NumberSet.h"
+
+1664209787 source:c:\comp20080\assignment2\numberset.cpp
+	<iostream>
+	"NumberSet.h"
+
+1664099371 c:\comp20080\assignment2\numberset.h
+
+1664209787 source:c:\comp20080\assignment_2\numberset.cpp
+	<iostream>
+	"NumberSet.h"
+
+1664442971 c:\comp20080\assignment_2\numberset.h
+
+1664210011 source:c:\comp20080\assignment_2\numbersetmain.cpp
+	<iostream>
+	"NumberSet.h"
+
